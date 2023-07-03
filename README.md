@@ -1,4 +1,4 @@
-### Hi there 👋,I'm Akhil K A
+### <h1>Hi there 👋,I'm Akhil K A</h1>
 
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning Flutter

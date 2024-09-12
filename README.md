@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python<br>🌱 I’m currently learning Flutter<br>😄 Pronouns:He/Him<br>⚡ Fun fact:The most common computer password is “123456”.
+🔭 I’m currently working on Python and Java<br>🌱 I’m currently learning Machine Learning<br>😄 Pronouns:He/Him<br>⚡ Fun fact:The most common computer password is “123456”.
 
 
 ## 🌐 Socials:
